@@ -1,3 +1,7 @@
+require("@babel/register")({
+  presets: ["@babel/preset-env", "@babel/preset-react"],
+});
+
 const { MongoClient, ObjectId } = require("mongodb");
 const express = require("express");
 let db;
