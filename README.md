@@ -6,7 +6,7 @@ The Animal Management System is a web application developed using the MERN stack
 
 ## Technologies Used
 
-- **Frontend**: React, Material-UI
+- **Frontend**: React, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Version Control**: Git, GitHub
@@ -82,8 +82,8 @@ Project Link: [https://github.com/Meital-Elmakaies/animal-management](https://gi
 ## Acknowledgments
 
 - [React](https://reactjs.org/)
-- [Material-UI](https://material-ui.com/)
+- [Bootstrap](https://getbootstrap.com/)
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
-- [MongoDB](https://www.mongodb.com/)
 - [Docker](https://www.docker.com/)
+- [MongoDB](https://www.mongodb.com/)
